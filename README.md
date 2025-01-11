@@ -5,13 +5,19 @@ generally all over the place but all centering around representation,
 modeling, collection, storage, transformation, visualization, and
 interaction of data.
 
-Currently interested in collaborative software and CRDTs, working on
-transitioning my personal machines to NixOS, and hopefully standing up
-a few professional-portfolio related things (e.g. this readme, some
-blogging, and actually deploying my hobby work).
+I don't do much publicly-visible coding but I'm hoping to change that
+in the coming year. My goal for 2025 Q1 is to express myself more and 
+doing more visible on the internet is going to be part of that.
 
-- 📫 How to reach me: jackmaruska@gmail.com
+Currently looking into starting a blog, creating an add-on in 
+World of Warcraft, and trying out live-streaming.
+
+I'm also looking for a new position. If you think there's a fit, feel 
+free to reach out to my email.
+
 - 😄 Pronouns: He/him
+- LinkedIn: https://www.linkedin.com/
+- Email: jackmaruska@gmail.com
 
 <!--
 **johnmaruska/johnmaruska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
